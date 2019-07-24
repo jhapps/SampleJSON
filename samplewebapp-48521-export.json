@@ -1,0 +1,8 @@
+{
+  "Market" : {
+    "BTC" : {
+      "Icon" : "https://cdn2.iconfinder.com/data/icons/cryptocurrency-5/100/cryptocurrency_blockchain_crypto-01-512.png",
+      "Name" : "Bitcoin"
+    }
+  }
+}
